@@ -6,6 +6,20 @@
     "configurations": [
         {
             "type": "java",
+            "name": "BruteForce",
+            "request": "launch",
+            "mainClass": "BruteForce",
+            "projectName": "practice_8f6f56f1"
+        },
+        {
+            "type": "java",
+            "name": "Arrlst",
+            "request": "launch",
+            "mainClass": "Arrlst",
+            "projectName": "practice_8f6f56f1"
+        },
+        {
+            "type": "java",
             "name": "Sudoku",
             "request": "launch",
             "mainClass": "Sudoku",
