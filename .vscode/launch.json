@@ -9,6 +9,13 @@
             "name": "Sudoku",
             "request": "launch",
             "mainClass": "Sudoku",
+            "projectName": "practice_8f6f56f1"
+        },
+        {
+            "type": "java",
+            "name": "Sudoku",
+            "request": "launch",
+            "mainClass": "Sudoku",
             "projectName": "practice_83c51780"
         },
         {
